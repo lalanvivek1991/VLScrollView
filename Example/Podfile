@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'VLScrollView_Example' do
+  pod 'VLScrollView', :path => '../'
+
+  target 'VLScrollView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
