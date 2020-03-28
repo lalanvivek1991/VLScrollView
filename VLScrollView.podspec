@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'VLScrollView'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of VLScrollView.'
+  s.summary          = 'VLScrollView is free pod for implementing uiscrollview in one line.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,19 +18,19 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+'VLScrollView is free pod for implementing uiscrollview in one line. that can make you easy'
                        DESC
 
   s.homepage         = 'https://github.com/lalanvivek1991/VLScrollView'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'lalanvivek1991' => 'jaimataji@gmail.com' }
+  s.author           = { 'lalanvivek1991' => 'lalanvivek1991@gmail.com' }
   s.source           = { :git => 'https://github.com/lalanvivek1991/VLScrollView.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '12.0'
 
-  s.source_files = 'VLScrollView/Classes/**/*'
+  s.source_files = 'Source/**/*.swift'
   
   # s.resource_bundles = {
   #   'VLScrollView' => ['VLScrollView/Assets/*.png']
