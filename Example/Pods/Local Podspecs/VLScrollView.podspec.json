@@ -1,0 +1,22 @@
+{
+  "name": "VLScrollView",
+  "version": "0.1.0",
+  "summary": "A short description of VLScrollView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lalanvivek1991/VLScrollView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lalanvivek1991": "jaimataji@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/lalanvivek1991/VLScrollView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "VLScrollView/Classes/**/*"
+}

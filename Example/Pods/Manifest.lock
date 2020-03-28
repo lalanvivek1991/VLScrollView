@@ -1,0 +1,16 @@
+PODS:
+  - VLScrollView (0.1.0)
+
+DEPENDENCIES:
+  - VLScrollView (from `../`)
+
+EXTERNAL SOURCES:
+  VLScrollView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  VLScrollView: fdf94558bcc8378f46210cc526b85a04c4b3b919
+
+PODFILE CHECKSUM: 0c2dd8b486b1492d2a9a5b14a1c07308eb4dc1f1
+
+COCOAPODS: 1.8.3
